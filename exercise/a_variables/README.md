@@ -5,7 +5,7 @@
   - See "cargo help" if you forgot the command.
 - [x] Open `Cargo.toml`
   - [x] Change the version number to `2.3.4` and save the file.  Keep an eye out for that version number in cargo's output when you run it!
-- [ ]xIn `src/main.rs` at the start of the `main()` function:
+- [x] In `src/main.rs` at the start of the `main()` function:
   - [x] Declare the variable `missiles` and initialize it to `8`
   - [x] Declare the variable `ready` and initialize it to `2`
 - [x] Change the `println!(...)` at the end of `main()` to:
